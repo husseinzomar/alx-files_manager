@@ -15,7 +15,7 @@ Storage of File Information using MongoDB: The API leverages MongoDB as a databa
 # Installation
 To set up the File Manager API on your local environment, please follow these steps:
 
-1. Clone this repository to your local machine using the following command: `git clone https://github.com/MuneneCalvin/alx-files_manager`.
+1. Clone this repository to your local machine using the following command: `git clone https://github.com/husseinzomar/alx-files_manager`.
 
 2. Install the required dependencies by running the following command in the project's root directory: `npm install`.
 
